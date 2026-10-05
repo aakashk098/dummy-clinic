@@ -4,8 +4,8 @@ A professional, dependency-light static website concept for a small-town family 
 
 ## Files
 - `index.html` — page structure/content
-- `style.css` — responsive design system and visuals
-- `script.js` — mobile navigation + demo form behavior
+- `assets/style.css` — responsive design system and visuals
+- `assets/script.js` — mobile navigation + demo form behavior
 
 ## Run
 Double-click `index.html`, or serve the folder with any simple local web server.
